@@ -1,1 +1,4 @@
-zpkd1://Konstantin-Mazykin.github.io/Watch-Faces/WF_Color_T_Rex_3.zpk
+zpkd1://Konstantin-Mazykin.github.io/Watch-Faces/********.zpk
+
+QR код сгенерировать на сайте:
+http://qrcoder.ru/
